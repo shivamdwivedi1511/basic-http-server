@@ -1,0 +1,22 @@
+* {
+  background-color: rgb(231, 227, 227);
+}
+
+.home-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block {
+  height: 400px;
+  width: 400px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
